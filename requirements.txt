@@ -1,0 +1,15 @@
+opencv-python
+cvlib
+anyqt
+pymongo
+flask 
+bson 
+cv2
+numpy 
+keras.utils 
+keras.models 
+os
+argparse
+tflearn
+operator
+collections 
